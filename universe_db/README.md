@@ -1,8 +1,8 @@
-## FreeCodeCamp 1st SQL project
+## Celestial Bodies Database
 
-### The goal is to create a simple database with PostgreSQL according to the requirements below.
+The goal is to create a simple database with PostgreSQL according to the requirements below.
 
-#### Requirements:
+##### Requirements:
 - You should create a database named universe
 - Be sure to connect to your database with \c universe. Then, you should add tables named galaxy, star, planet, and moon
 - Each table should have a primary key
