@@ -1,7 +1,7 @@
-# RELATIONAL DATABASE - FreeCodeCamp
+## RELATIONAL DATABASE - FreeCodeCamp
 #### This is a repository of my SQL projects from the 'Relational Database' section of the FreeCodeCamp curriculum.
 
-The goal is to learn how to create and use a relational database with PostgreSQL, a database management system, and SQL, the language of these databases.
+With these projects, I learned how to create and use a relational database with PostgreSQL, a database management system, and SQL, the language of these databases. I also improved my scripting skills as I had to write simple Bash scripts to automate queries.
 
 ## Content
 
